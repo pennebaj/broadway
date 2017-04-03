@@ -14,6 +14,7 @@ h1 {
   color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-repeat: no-repeat;
+  background-position: center;
 }
 h1, h2, h3 {
   color: black
@@ -29,8 +30,13 @@ h4 {
   color: white;
   font-weight: bold;
   font-size: 23px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .footer {
   font-size: 11px;
   background-color: dimgray;
+  text-align: left;
+  color: white;
 }
